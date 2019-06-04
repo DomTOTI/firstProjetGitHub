@@ -12,6 +12,7 @@ namespace AppConso.HelloWorld
         {
             Console.WriteLine("Hello Word ! ");
 
+
         }
     }
 }
